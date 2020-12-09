@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/breakingbadwiki/static/css/main.09b0c12a.chunk.css",
+    "main.js": "/breakingbadwiki/static/js/main.7e7c4718.chunk.js",
+    "main.js.map": "/breakingbadwiki/static/js/main.7e7c4718.chunk.js.map",
+    "runtime-main.js": "/breakingbadwiki/static/js/runtime-main.3b404386.js",
+    "runtime-main.js.map": "/breakingbadwiki/static/js/runtime-main.3b404386.js.map",
+    "static/js/2.83aa7892.chunk.js": "/breakingbadwiki/static/js/2.83aa7892.chunk.js",
+    "static/js/2.83aa7892.chunk.js.map": "/breakingbadwiki/static/js/2.83aa7892.chunk.js.map",
+    "index.html": "/breakingbadwiki/index.html",
+    "static/css/main.09b0c12a.chunk.css.map": "/breakingbadwiki/static/css/main.09b0c12a.chunk.css.map",
+    "static/js/2.83aa7892.chunk.js.LICENSE.txt": "/breakingbadwiki/static/js/2.83aa7892.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/breakingbadwiki/static/media/bg.085908ea.jpg",
+    "static/media/logo.e6ecab44.png": "/breakingbadwiki/static/media/logo.e6ecab44.png",
+    "static/media/spinner.11d9cde8.gif": "/breakingbadwiki/static/media/spinner.11d9cde8.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b404386.js",
+    "static/js/2.83aa7892.chunk.js",
+    "static/css/main.09b0c12a.chunk.css",
+    "static/js/main.7e7c4718.chunk.js"
+  ]
+}
